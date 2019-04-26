@@ -1,2 +1,2 @@
-#### 1. Official Documenttation Page for Solidity
+#### 1. Official Documentation Page for Solidity
 https://solidity.readthedocs.io
