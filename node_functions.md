@@ -9,3 +9,6 @@ https://medium.com/@aussie_tech_tutor/refactoring-code-when-is-it-the-right-time
 
 Remote Development with Visual Studio Code
 https://code.visualstudio.com/blogs/2019/05/02/remote-development
+
+10 Best Practices for Better RESTful API
+https://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
