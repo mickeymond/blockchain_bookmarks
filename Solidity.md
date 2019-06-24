@@ -56,3 +56,24 @@ https://github.com/ethereum/eips/issues/1155
 https://medium.com/blockchannel/walking-through-the-erc721-full-implementation-72ad72735f3c  
 ##### The Token Curated Registry Reading List
 https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6
+
+##### Walking Through the ERC721 Full Implementation
+https://medium.com/blockchannel/walking-through-the-erc721-full-implementation-72ad72735f3c
+
+##### The Open Network for Transaction Requests | Request
+https://request.network/en/
+
+##### Graph Explorer
+##### ENS Subgraph
+https://thegraph.com/explorer/subgraph/ensdomains/ens
+
+https://manager.ens.domains/name/collectiblesapp.eth/subdomains)
+
+##### Predicting Random Numbers in Ethereum Smart Contracts
+https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620
+
+##### New Way to Claim `.test` ENS Domains for Easy Testing
+https://medium.com/the-ethereum-name-service/claim-test-ens-domain-for-easy-testing-1127e415c76d
+
+
+##### 
