@@ -76,4 +76,6 @@ https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-
 https://medium.com/the-ethereum-name-service/claim-test-ens-domain-for-easy-testing-1127e415c76d
 
 
-##### 
+##### Oraclize __callback function with unbounded gas usage
+
+https://ethereum.stackexchange.com/questions/44609/oraclize-callback-function-with-unbounded-gas-usage
